@@ -13,7 +13,7 @@
 <h2>🔒 CyberSecurity Projects:</h2>
 
 - <b>Computer Forensics </b>
-  - [Flower Girl Project](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Flower Girl Project](https://github.com/JWSteven620/Computer-Forensics)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JWSteven620/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JWSteven620/Inspecting-Traffic-on-Azure-VM)
