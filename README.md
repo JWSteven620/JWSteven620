@@ -17,7 +17,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JWSteven620/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JWSteven620/Inspecting-Traffic-on-Azure-VM)
-  - <b>Hacking</b>
+- <b>Hacking</b>
   - [Hacking Using VirtualBox](https://github.com/JWSteven620/Active-Directory)
   - [Dictionary Attack](https://github.com/JWSteven620/Inspecting-Traffic-on-Azure-VM)
 
