@@ -14,4 +14,4 @@
 
 [<img align="left" alt="John | LinkedIn" width="22px" src="https://www.linkedin.com/in/john-stevenson-745113226/" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/john-stevenson-745113226/
+[linkedin]: https://www.linkedin.com/in/john-stevenson-745113226
