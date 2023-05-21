@@ -12,13 +12,14 @@
 
 <h2>🔒 CyberSecurity Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Computer Forensics </b>
+  - [Flower Girl Project](https://github.com/joshmadakorcc/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JWSteven620/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JWSteven620/Inspecting-Traffic-on-Azure-VM)
+  - <b>Hacking</b>
+  - [Hacking Using VirtualBox](https://github.com/JWSteven620/Active-Directory)
+  - [Dictionary Attack](https://github.com/JWSteven620/Inspecting-Traffic-on-Azure-VM)
 
 <h2>📱 Connect with me:</h2>
 
@@ -27,3 +28,4 @@
 
 [linkedin]: https://www.linkedin.com/in/john-stevenson-745113226
 [indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.162443196.1020427485.1684677204-1115564616.1684677204&_gac=1.61099486.1684677204.CjwKCAjwgqejBhBAEiwAuWHioNumj15wqUXe-1N-lwdeEyakUx-Bw7BwKe5nDHgPH3JxGAFASBHtDRoC9hQQAvD_BwE
+
