@@ -18,7 +18,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JWSteven620/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 - <b>Hacking</b>
-  - [VirtualBox: Setup] (https://github.com/JWSteven620/Active-Directory) 
+  - [Dictionary Attack]() 
   - [Hacking Using VirtualBox]()
   - [Dictionary Attack]()
 
