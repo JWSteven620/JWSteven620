@@ -13,13 +13,14 @@
 <h2>🔒 CyberSecurity Projects:</h2>
 
 - <b>Computer Forensics </b>
-  - [Flower Girl Project](https://github.com/JWSteven620/Computer-Forensics)
+  - [File Recovery & Examination](https://github.com/JWSteven620/Computer-Forensics)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JWSteven620/Active-Directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JWSteven620/Inspecting-Traffic-on-Azure-VM)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 - <b>Hacking</b>
-  - [Hacking Using VirtualBox](https://github.com/JWSteven620/Active-Directory)
-  - [Dictionary Attack](https://github.com/JWSteven620/Inspecting-Traffic-on-Azure-VM)
+  - [VirtualBox Setup] () 
+  - [Hacking Using VirtualBox]()
+  - [Dictionary Attack]()
 
 <h2>📱 Connect with me:</h2>
 
